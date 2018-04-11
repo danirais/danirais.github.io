@@ -1,0 +1,39 @@
+
+h1, h3 {
+	padding: 12px;
+	margin: 8px 20px;
+	border: 4px solid black;
+	text-align: center;
+	text-decoration: underline;
+	background-color: cyan;
+	color: blue;
+	font-family: Helvetica;
+	font-size: 20px;
+	border-radius: 8px;
+
+}
+
+h2 {
+	color: red;
+	font-family: Garamond
+
+}
+
+img {
+	border-radius: 8px;
+	width: 720;
+
+}
+
+article {
+	text-align: center;
+	background-color: lightgrey;
+}
+
+#alert {
+  background-color: magenta;
+}
+
+.muted {
+  background-color: lightgrey;
+}

@@ -1,0 +1,35 @@
+
+h1, h3, ol, ul, li {
+	padding: 12px;
+	margin: 8px 20px;
+	border: 4px solid black;
+	text-align: center;
+	text-decoration: underline;
+	background-color: pink;
+	color: blue;
+	font-family: Helvetica;
+	font-size: 20px;
+	border-radius: 8px;
+	display: inline-block;
+
+}
+
+h2 {
+	color: #43FFA9;
+	font-family: Garamond;
+
+}
+
+img {
+	border-radius: 8px;
+	width: 720;
+	height: 360;
+
+}
+
+article {
+	text-align: center;
+	background-color: lightgrey;
+}
+
+
