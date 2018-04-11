@@ -1,0 +1,152 @@
+/*h5 img {
+	margin: 10px 120px 10px 120px;
+	border-radius: 8px;
+	width: 400px;
+    opacity: 1.0;
+    filter: alpha(opacity=50); 
+}
+
+h5 img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100); 
+}*/
+
+
+h2, h3, p, h4, h5 {
+
+    color: white;
+    text-shadow: 2px 2px #666666;
+	text-align: center;
+}
+
+header {
+    font-size: 48px;
+    background-image: url("Amazing-Background-Images-For-Websites-.jpg");
+}
+
+h4, h4 p {
+	text-align: justify;
+	margin: 10px;
+}
+
+ul {
+    top: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: center;
+  	width: 18; 
+  	padding: 5px; 
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+div h4 {
+	text-align: left;
+
+}
+
+div h4 p {
+	text-align: left;
+}
+
+h4 img {
+	margin: 38px;
+	float: center;
+	width: 200px;
+}
+
+header {
+	background-color: #d9d9d9;
+}
+
+html {
+	background-image: url("Grey-website-background-1.png");
+}
+}
+
+/*div {
+    margin-right: auto;
+    margin-left: auto;
+    width: 320px;
+    padding: 10px;
+    border: 5px gray;
+    margin: 10; 
+}*/
+
+body {
+    background-image: url("Grey-website-background-1.png");
+}
+
+.background {
+    margin-right: auto;
+    margin-left: auto;
+    width: 320px;
+    padding: 10px;
+    border: 5px gray;
+    margin: 10;
+
+}
+
+/*.my-image {
+     width: 25%;
+    height: 10%;*/
+}
+
+.my-image:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100);
+} 
+
+
+.service {
+    display: flex;
+    justify-content: space-around;
+    background-image: url("8604.jpg");
+
+}
+
+.service-header {
+    background-image: url("8604.jpg");
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+}
+
+.gallery-image {
+    margin: 20px;
+    width: 25%;
+    height: 10%;
+
+}
+
+.gallery-image:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100); 
+}
+
+.contact {
+    background-image: url("8604.jpg");
+}
+
